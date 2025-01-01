@@ -1,0 +1,5 @@
+.main-wrapper{display: none;}
+.inner-wrapper{display: none;}
+.no-iemsg{text-align: center; padding-top: 50px;}
+.no-iemsg h1, .no-iemsg h3{font-family:Arial, sans-serif; padding: 0 100px;}
+h1, h2, h3, h4, h5, h6{font-family:Arial, sans-serif;}
