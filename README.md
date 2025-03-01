@@ -1,6 +1,5 @@
 # Inkspire
 
-![Inkspire Banner](assets/img/banner.png)
 
 **Inkspire** is a Laravel-based blogging platform designed for writers, storytellers, and content creators. It provides an elegant and user-friendly interface for managing blog posts, user authentication, and media uploads.
 
